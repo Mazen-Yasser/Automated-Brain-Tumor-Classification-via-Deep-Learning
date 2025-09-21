@@ -67,4 +67,4 @@ To get this project up and running on your own machine, follow these steps.
 *1. Clone the repository:*
 ```bash
 git clone [https://github.com/Mazen-Yasser/Automated-Brain-Tumor-Classification-via-Deep-Learning.git](https://github.com/Mazen-Yasser/Automated-Brain-Tumor-Classification-via-Deep-Learning.git)
-cd YOUR_REPOSITORY_NAME
+cd Automated-Brain-Tumor-Classification-via-Deep-Learning
